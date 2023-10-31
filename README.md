@@ -9,7 +9,8 @@
 
 
 - 🔭 I’m currently working on ... a personal project
-- 🌱 I’m currently learning ... Html, css
+- 🌱 I’m currently learning ... Html, css( Front End Developer)
+- 
 - 👯 I’m looking to collaborate on ... with like minds to develop
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... 
